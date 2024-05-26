@@ -1,0 +1,10 @@
+[general]
+name=Çizgiden bilgi al
+description=Kaynak katmandaki çizgilerin etrafında tampon oluşturur. Hedef katmanda içine giren çizgilere öznitelik aktarılır.
+about=Çizgiden çizgiye öznitelik taşıma aracı 
+version=1.0
+qgisMinimumVersion=3.0
+author=İbrahim Öztuğ Bildirici
+email=iobildirici@ktun.edu.tr
+repository=https://github.com/iobildirici/cizgidenal
+homepage=https://github.com/iobildirici/cizgidenal
